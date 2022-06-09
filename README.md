@@ -1,2 +1,3 @@
 # Bootstrap4
- Cinema basic template
+This is a  Cinema basic template,  used to shows movies and schedules
+with an option to subscribe  for a Movie Club Rewards!
